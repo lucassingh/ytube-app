@@ -1,3 +1,39 @@
+# Ytube app
+
+Ytube app is a small app that consumes a Rapid API that contains information about YouTube videos, organised by category.
+You can also see channel detail and video detail with related videos.
+It has a search bar to find the videos you want.
+
+Although it is a simple app it was developed to learn the implementation and use of the Material UI framework and all its components.
+
+## Stack
+
+- Create react App
+- Axios
+- Material UI
+- React router v6
+- React player
+
+## Home View
+
+![home](https://user-images.githubusercontent.com/25686886/206938311-a10206ca-b9d2-46a8-ac0c-641360d0ac2d.png)
+
+## Search results View
+
+![search results](https://user-images.githubusercontent.com/25686886/206938343-b9592ebb-606b-462f-8e75-40dba3263284.png)
+
+## Channel detail View
+
+![channel detail](https://user-images.githubusercontent.com/25686886/206938380-aa6911bb-2580-4d1b-8170-a2c3371e2dbc.png)
+
+## Video detail
+
+![video detail](https://user-images.githubusercontent.com/25686886/206938400-161b476a-0c02-4919-b62b-66a809f71a11.png)
+
+## Mobile View
+
+![image](https://user-images.githubusercontent.com/25686886/206938442-c56a0f6e-d885-496e-8948-b11d0d8494e1.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
