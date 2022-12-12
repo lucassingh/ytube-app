@@ -6,6 +6,8 @@ It has a search bar to find the videos you want.
 
 Although it is a simple app it was developed to learn the implementation and use of the Material UI framework and all its components.
 
+[URL app](https://ytube-app-evod-nhm3a1u4f-lucassingh.vercel.app/)
+
 ## Stack
 
 - Create react App
